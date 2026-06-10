@@ -100,7 +100,4 @@ This project showcases how web applications can be effectively deployed and scal
 
 ---
 
-## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1tNQBd00a33uIe2jzXpLEaYh2BDjuXveE/view?usp=drive_link)  
-- 🧾 [GitHub Repository](https://github.com/nilofer2901/AWS-Hosted-Virtual-Classroom-And-Learning-Platform)
